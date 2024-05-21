@@ -1,8 +1,11 @@
 # GenAI
-🌟 Generative AI models from 🔷 OpenAI and 🔶 Gemini are revolutionizing 🌍 real-world problems 
 
-🌟 Generative AI models
-🔷 OpenAI 
-🔶 Gemini
+🌟 BERT (Hugging Face)
 
-🌍 real-world problems
+🌟 Lang Chain (RAG)
+
+🌟 LLM Models( OpenAI , Gemini, Q)
+
+🌍 real-world problems 
+
+
