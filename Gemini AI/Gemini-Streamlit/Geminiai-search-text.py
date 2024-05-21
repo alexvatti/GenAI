@@ -5,7 +5,7 @@ import os
 
 def configure_access():
     # This line - you can comment - This is fix
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS']="gen-lang-client-0973766600-1e5a6e73538e.json"
+    #os.environ['GOOGLE_APPLICATION_CREDENTIALS']="gen-lang-client-0973766600-1e5a6e73538e.json"
 
     # create .env file and copy paste key in the file like: GOOGLE_API_KEY=XXXXXXXXXXXXXXXXXXX
     genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
