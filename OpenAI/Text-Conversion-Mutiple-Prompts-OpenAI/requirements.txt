@@ -1,0 +1,21 @@
+# Python packages
+os
+sys
+nltk
+spacy
+pandas
+
+# OpenAI Python SDK
+openai==1.6.1
+
+# Markdown to HTML converter
+markdown
+markdown2
+
+# BeautifulSoup for HTML parsing
+bs4
+
+# spaCy models
+en_core_web_trf
+en_core_web_sm
+en_coreference_web_trf
