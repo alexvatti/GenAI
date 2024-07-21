@@ -16,7 +16,7 @@ def configure_access():
         print(m.name)
 
 configure_access()
-model=genai.GenerativeModel("gemini-1.0-pro-vision-latest")
+model=genai.GenerativeModel("gemini-1.5-flash")
 
 st.title("Gemini AI - GenAi - Vision")
 uploaded_file = st.file_uploader("Choose a image file",type=["png","jpg","jpeg"])
